@@ -6,4 +6,9 @@
     <string name="fourth_activity">First Activity</string>
     <string name="fifth_activity">First Activity</string>
 
+
+    <string name="main_title">1 Activity</string>
+    <string name="secondary_title">Activity Two</string>
+
+
 </resources>
