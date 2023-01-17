@@ -18,8 +18,7 @@ import org.junit.runner.RunWith;
 
 public class ManyActivityTest {
 
-    @Rule public ActivityScenarioRule activityTestRule =
-            new ActivityScenarioRule(MainActivity.class);
+    @Rule public ActivityScenarioRule activityTestRule = new ActivityScenarioRule(MainActivity.class);
 
     @Test
     public void test_isActivityInView() {
